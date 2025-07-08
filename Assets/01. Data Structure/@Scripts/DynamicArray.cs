@@ -71,14 +71,6 @@ public class DynamicArray : MonoBehaviour
             // 값 10이 없음
         }
 
-
-
-
-
-
-
-
-
     }
 
 
