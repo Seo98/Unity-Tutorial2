@@ -36,7 +36,7 @@ public class MergeSort : MonoBehaviour
         for (int i = 0; i < n1; i++) // 왼쪽 배열 값 초기화
             leftArr[i] = arr[left + i];
 
-        for (int i = 0; i < n2; i++) // 오른쪽 배열 값 초기화
+        for (int i = 0; i < n2; i++) // 오른쪽 배열 값 초기화 
             rightArr[i] = arr[mid + 1 + i];
 
         int j = left; // 기존 배열의 시작점
