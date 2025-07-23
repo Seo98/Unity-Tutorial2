@@ -3,6 +3,7 @@ using UnityEngine.Pool;
 
 public class PoolManager : Singleton<PoolManager>
 {
+/*
     public ObjectPool<GameObject> pool;
     public GameObject prefab;
 
@@ -41,4 +42,5 @@ public class PoolManager : Singleton<PoolManager>
     {
         Destroy(obj);
     }
+*/
 }

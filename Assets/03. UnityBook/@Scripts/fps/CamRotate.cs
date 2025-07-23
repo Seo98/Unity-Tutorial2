@@ -10,6 +10,8 @@ public class CamRotate : MonoBehaviour
 
     void Update()
     {
+        if (FPSGameManager.Instance.gState != FPSGameManager.GameState.Run) return;
+
         float mouse_X = Input.GetAxis("Mouse X");
         float mouse_Y = Input.GetAxis("Mouse Y");
 

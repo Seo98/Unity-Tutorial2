@@ -6,6 +6,7 @@ TagManager:
   tags:
   - FxTemporaire
   - Enemy
+  - Obstacle
   layers:
   - Default
   - TransparentFX
@@ -15,14 +16,14 @@ TagManager:
   - UI
   - Player
   - Bomb
+  - Enemy
   - 
   - 
   - 
   - 
   - 
   - 
-  - 
-  - 
+  - Obstacle
   - 
   - 
   - 
